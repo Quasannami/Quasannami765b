@@ -1,0 +1,26 @@
+{
+  "name": "Bernard Fleming",
+  "age": 43,
+  "address": {
+    "street": "Hovis Mill",
+    "city": "Lipepa",
+    "state": "FL",
+    "zip": "84356"
+  },
+  "contact": {
+    "phone": "(487) 710-7167",
+    "servicePhone": "800716227"
+  },
+  "birthday": "1969-09-28T15:18:23.584Z",
+  "ip": "107.223.148.75",
+  "foo": "bar",
+  "profile": {
+    "about": "Kisvacim upcepe rab dominkos cirpod gurdah ohvoze wem ones jiv oho tur cuuba fe tihcucusi. Fabtozul nefje wamagiave uptihar lunmuj sobe asu nof kenu hoimida ugu wawob ew povgaeve famop zijbec gozof. Tetat zi ibbekufo ewirafmal geh rusil go rok giinpe dalvu ke azifa lufice hir fakfuhcas ej zilme sitipen. Lepufew ekebupej fezopul zo re kido nifwil sijmot ulapo ew zu vohgor kovu fiflog.",
+    "bio": "Ecosurul geva gutejih dila ahfulih sipuw waje um duzmicgo rihnezla hem weflewte losoki esujom nihvu zumdasoh gihic udavi. Co ozamoeku nuc eco jejdahak upe joedga lawce isu ufobedo bogwiho wi rizruk cibuv jevdu rom jugmafbak bof. La lo oddug kulkuglug buruppin viosa vuubhez woj hisus tekutkis osimugo orni vaasazic ehe cedohni gudivaci lut. Nuh ka ibo jolu neemzot aje pordoppo ne umajezu situbec jibtisdam la. Vunownis jam kaf tahekule kocara arijofuma ki dazajikon budcibem fi ne ogecipo."
+  },
+  "apiKey": "fc94393f02da03163835b27c59036eadbe1de1ae32f8556d9a2ba7840b86115d",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
