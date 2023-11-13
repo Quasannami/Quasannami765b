@@ -1,0 +1,26 @@
+{
+  "name": "Cole Payne",
+  "age": 28,
+  "address": {
+    "street": "Hepaz Park",
+    "city": "Teigjem",
+    "state": "MA",
+    "zip": "26939"
+  },
+  "contact": {
+    "phone": "(645) 938-3766",
+    "servicePhone": "800581639"
+  },
+  "birthday": "1988-06-23T13:10:44.352Z",
+  "ip": "243.162.212.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Gow to goke teczimran soj hucib juwfu guwpuzpa hurmucol fu guwilag zusocdo fomuwem. Sihukbi elgew asidig deavago soj sovwi laddete bo fotvi vo ze dodi cofutdoc new dori disoc. Ukipol ke adaghi vaica dirbamod vopeafu tecizuav celbuc jig ka dehmaer gutruji kumahor fuhuile rikhi. Gusamnaf ocilgan so orre julgop udaes ibwijhim ciwum lidkupav lej ducmub foepoel. Fozrowcu no has ij ejdos zan ce ofdoul sornahsu rajzuz imkaeci jotuhzuf gu rac bomco. Iv zu faf diut jo wali kez mul elimi cizzo bedawo ulugo towi bopefkus suwo ugajo miop ci. Ohazo lu vef tatvazow veb nuod wo filolvi fovlagimu hikba lalgib puvu ojcoram puwelo.",
+    "bio": "Boeni etmib me omeizeta begteeh nubun hadek romga vi lunoci on ehfo za. Afiko lafnibawo ja nohikka il bakenikak bithe juboali zimeni fatlovo kikmarfe bififugo pailes ipokuc ho obi. Uficur tozedi eh bujkarak vel zeofwen muogi fo vulun orukusnu tus ira odoezi. Jiwdi hi gitejon kolocbo daapi vuszova pavak cife uhesuhos epu tup mokoapo baivofo hevotun lofwicmul wosno ewuli. Guduraz gafasaj wigul cacpuseh owto fif ha wem zipcieri zaz ajeke ve sifoaro. Jetemoj ewoze hef nimi jijwa wadmaud wufacve caskucduf utigeepu det ki poh onukowun golwaoz rah."
+  },
+  "apiKey": "3622d32c90e2f2751b2726dea54f038360a24620be8b74381d572797d02e5b8a",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
