@@ -1,0 +1,26 @@
+{
+  "name": "Mike Blair",
+  "age": 20,
+  "address": {
+    "street": "Efotiv Center",
+    "city": "Bavlawdu",
+    "state": "NE",
+    "zip": "09210"
+  },
+  "contact": {
+    "phone": "(304) 580-6966",
+    "servicePhone": "800995559"
+  },
+  "birthday": "1987-09-16T10:48:36.595Z",
+  "ip": "178.212.54.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Bepe bufsu je nik wudhokti ow ciroivu mavzujol pebwoz zorro rezu ev fa ban. Ja fijte dicufik napuvvaf teuwozu ezmeb vol vu juotudo ebimuz les ije focnaddaw guoldu zukakoh. Ci tubvig renso milfome wuob di aguvodvug rinvuf riwid misoc jesi ilowug emuuwo ina. Hehzorop vuteftil alru duboza fiv na saemife bakinvu ca uzu til bida pupsab. Ad dewe jo gub fil gowbeh he ra ofe teji ciketuz ni.",
+    "bio": "Ekukic numonzof tewage mu busmupes ka ro izbir cuh tidhuga lagoko niwomef megoda mof uc zo. Si faszal ej ecvu tekumo coma na zizno utin pake huz kipa zehwedse ni. Hokve epricrat diakce zalgu pakbop buacofu gefmubun ohji nopmi ifuta giit jobetbo kalu inu gomu fa feekarap vise."
+  },
+  "apiKey": "1c8dc772d4a2a35f8fdb7a52a631040c8ea39a0a594cea3bd90dec89074a68fb",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
