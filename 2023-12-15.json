@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Keller",
+  "age": 31,
+  "address": {
+    "street": "Nitsa Way",
+    "city": "Haipica",
+    "state": "WY",
+    "zip": "45151"
+  },
+  "contact": {
+    "phone": "(559) 973-3262",
+    "servicePhone": "800151418"
+  },
+  "birthday": "1975-11-26T01:08:27.837Z",
+  "ip": "63.188.89.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Diidwel deekevo var livgudzo eju conhucu gehnodla ipobiuj loiz joc oru ewunefo. Bob lididip zo fo erekanje hu va osaazi wuh cot gi hafbus weh wavbiidu lurver lej migivo lewtop. Nugwatan losohob racla hok kesu pazifi tohfi ipkaf anucoepu soj pudzab navhi od pugmiz joz led.",
+    "bio": "Atsa uk tuzzal redogu noinenen sookibe pogteh ri ji min ala bisfa. Badzaj vavuw wacohi wo juipse hid fuswico vakjiv kicuhifiz ce eh nefraaco lal si er. Ona kures wetmohziv mane rohel faj kunek so obezilhok dutdebuk tiejo ne abjidevu gifwa neb foifcev seuvbe borodin. Awuno eluoj beh su tam ma um ciforu ku ak sehima fojgates du."
+  },
+  "apiKey": "67a22450a1e5919cec15b6a4e7826fe1084ee4dc58ddd28df4d83d28da714ef1",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
