@@ -1,0 +1,26 @@
+{
+  "name": "Albert Holmes",
+  "age": 54,
+  "address": {
+    "street": "Durep Mill",
+    "city": "Velheil",
+    "state": "LA",
+    "zip": "55147"
+  },
+  "contact": {
+    "phone": "(987) 412-9518",
+    "servicePhone": "800172238"
+  },
+  "birthday": "1989-11-01T04:40:44.133Z",
+  "ip": "140.225.250.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Tuzobi sishussu riuc vaj mozzef fanmonki uva zeha evhe tatlud gizodib lingufud dohemev togawfuz azejij. Ojweftiw eha lafavo atobiteca morvov bo bibe tobce utonu rahbi abu ni na vorefuco bujone. Il re kadicso fek ugri pizdon lurmazim hake esa mi fip tibanfot babpuz bahup hif.",
+    "bio": "Puc cebas duj terku jialcir kujo ba utetus punfim iwa fanajse dejaica fonbunnij egpiwo fe ela to nitjakor. Asoaf fajig bapgicir saj mucu el cidojze vefuse vad zucu wisejdor igi. Wuz pafe fotol hukeh ase linarpi gis dusrabuk je bi rarsatvo uke hin akvaaj. Rugake fazsapso tenuc cicpel aline uji arej atperzeh supur tareb furot ka ik."
+  },
+  "apiKey": "e04e3f0f69e7facdb4dbf580d9323c11f1067f60be5d96ac83c62cae95ef93a3",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
