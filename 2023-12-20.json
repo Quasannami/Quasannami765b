@@ -1,0 +1,26 @@
+{
+  "name": "Antonio Goodwin",
+  "age": 47,
+  "address": {
+    "street": "Katut Mill",
+    "city": "Hibhasna",
+    "state": "OH",
+    "zip": "03772"
+  },
+  "contact": {
+    "phone": "(612) 578-1607",
+    "servicePhone": "800183976"
+  },
+  "birthday": "1960-04-08T05:29:08.609Z",
+  "ip": "1.24.203.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Jomhesal bueninu wijuvo jah sunasnif at fujuiwe ekuari upmuc haro ekazakaz cig. Up et co camektep fokullu etaaf katto fatiwpok uluglup togo ninih nise powu ibep jo. Koruk kur puc ogo zo difat bilap ujebuf eriugjo vobejkof derospi ki umusunuj.",
+    "bio": "Gabfulle bolho viwub uluvipi fod jopurupov nu pefo cegpam sa hobepha lo fi. Fuc pon fabo fol se uke essor becuf bi kezadre zi wekozin. Ger dewe pojotol enoebkif boul roru wufahuv edupina zaw muru pessonuw acupiwki."
+  },
+  "apiKey": "5e3ed85890b07e8c9e030f78e3db17811385754bc159bb7b9ec7b9d60eb3bc16",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
