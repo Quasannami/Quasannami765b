@@ -1,0 +1,26 @@
+{
+  "name": "Lloyd Patterson",
+  "age": 46,
+  "address": {
+    "street": "Zodfo Loop",
+    "city": "Mufweju",
+    "state": "WA",
+    "zip": "07784"
+  },
+  "contact": {
+    "phone": "(737) 618-6136",
+    "servicePhone": "800662564"
+  },
+  "birthday": "2006-09-05T02:18:58.582Z",
+  "ip": "154.170.165.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Ik poavuza uw jonaf hu juzod labwihge jevakde iwema nifdi ora zeptedse ibej ujev zumheli begha. Gawa cailujoz wat fijnag poporpad ucaisi nac fob sedzen cocbezne eksac ji woib nawrip zu ziceplah. Sej pemru peha toc bon papug gazum bataraca nip varohiuf nojbaovi liwmildiz. Ehrivzim otpunkel li mokcoki cat ow waznegu zise nizudnan jig etre ofuroccu juvle ubcehrah jadasuhi jas. Ewa vi verwe igikek karophi wuzjoza tusijamo ume ko otkotke nowgu ja nemip paspes dimici notsudcok li eva.",
+    "bio": "Lopud dava savvucu geewousi sannufin put zu fohmobtu peh ep oweatoni pot vomup dovrezco uciez sazigip. Unbutteh asobuno jof rohu mejoes zazdobbec kujse tepivu rupigoko sa je hewefu. Bajin lo su iretorah neat wahhac iwibevroz maluha cad zezfov kiru hew mir. Lizo no hozcu divfouna hoduh ida ejom nejev osebe ewu pi heh to sidbe."
+  },
+  "apiKey": "98cc64fc261c0d8ee943be9fc3a3dbbe99b626d8c9595621056e37b2e664dcbb",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
