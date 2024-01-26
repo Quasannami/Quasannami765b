@@ -1,0 +1,26 @@
+{
+  "name": "Kate Evans",
+  "age": 30,
+  "address": {
+    "street": "Unjef Loop",
+    "city": "Zatuthon",
+    "state": "OR",
+    "zip": "68550"
+  },
+  "contact": {
+    "phone": "(221) 701-9004",
+    "servicePhone": "800332723"
+  },
+  "birthday": "1971-09-26T20:37:05.352Z",
+  "ip": "113.96.236.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Teecuvo ajecag guz uramer ow ajomursac let karuz po lubitha se domte muvlivfab. Ilzapej fowni te ju mohleji po ciz vabih cennor rudik liwsap hofveb sekita ze no unabioh. Tenrubmot dijegu zupak emukuwah apeparla mabih eh bomasgik povigtuk hodumjar onaruzpuk vanuval badoibu.",
+    "bio": "Le mon gut feowki kanofo wisifek ku goge ji dil abose mitufe ufi. Zuj nik inaluzaj ijo puctodpu cile reco fijul zitearu hime su gumaj bo zofical zemu gikve ibuvu gegoz. Ne radico conavhi cuwe mueleki nol kiluhpej raj kofdotu awiporaro cupuv nic jueto big owicaci."
+  },
+  "apiKey": "1cd2fe580749e644e2885b207ec92d399bb1aa9a4bc60d8fb74c9584d8fbc110",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
