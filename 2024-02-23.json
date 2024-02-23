@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Parks",
+  "age": 32,
+  "address": {
+    "street": "Recaze Highway",
+    "city": "Cokvijin",
+    "state": "OH",
+    "zip": "17656"
+  },
+  "contact": {
+    "phone": "(343) 547-5596",
+    "servicePhone": "800549752"
+  },
+  "birthday": "1967-06-28T21:55:02.188Z",
+  "ip": "211.190.195.110",
+  "foo": "bar",
+  "profile": {
+    "about": "Rawo zuireewi su mipa ojco vacku muilote adimefeg fedinto foaz mu kot. Rucefana muwe haswi japlijluc uguke ivevi hisecsob rilo far bo bar ma sab. Gi nu houle kereko fu hoponbec pucuj fosola bonti had upa hewep. Huto hocdeca sewogdi waur sob tid puti batama vismuhve ale foppe gisjuv lo waw hal.",
+    "bio": "Gukag pefha emuc dihzab ge gul hu ra da saksi hobjompu vi keuchut bopa. Lora ojida cakuczen lupheimu senwi wabkugas zomotam vocuiru wimgunimu ijani kahim epafa. Das nobuwjiz heijo ezpob zijjorfa luni ondictec molwit jubihot dosapi sinirig gikub sen iru toh fuvko gevtetuk ejpokno."
+  },
+  "apiKey": "dd145587f4f12665032167ebaf5e53fed1072b9890f3803c0775db3162f0b78e",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
