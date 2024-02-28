@@ -1,0 +1,26 @@
+{
+  "name": "Vera Singleton",
+  "age": 38,
+  "address": {
+    "street": "Laik Lane",
+    "city": "Curolras",
+    "state": "LA",
+    "zip": "57633"
+  },
+  "contact": {
+    "phone": "(407) 797-5653",
+    "servicePhone": "800331673"
+  },
+  "birthday": "1963-08-18T06:34:22.891Z",
+  "ip": "172.104.21.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Uli pi vaico ciwoce hovtegezo pizpep ja ruzowe margapose zirvebfog rud legoj volgocbur epu tegbez cenlobe. Hu jirow tongo fesvurzov odo zedkular cilozde nofamdim gaez nomku apu simod lavcin oj pijoh. Car jefrud kumniw in duszinbif pakre wieda ejalinwa epome vujeop li tuh ji hepe humek he hihusir. Ruafci uba pahri odukev birobe ahu cuohacur kozreh lajera ezudo cohli lorwe.",
+    "bio": "Was voagaal junna nujwe tubnegiv jozuwu hul itad pulzuluw wi bustuzli tab cin. Co zewud low bugrawun us cunucol fapsebe fuh mop zicohusum emipi ad. Viw zi cozaw zetpez arujazu jah gignew dofi uv su nu parnor ofusat ugulezhor leko fewfetew rucfup zerhu."
+  },
+  "apiKey": "9d48f56a6fca57bbe7b9a52afa0bd889d2cb75bb10253d131829633efbb99d1d",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
