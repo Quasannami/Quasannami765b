@@ -1,0 +1,26 @@
+{
+  "name": "Don Mills",
+  "age": 18,
+  "address": {
+    "street": "Sukuh Boulevard",
+    "city": "Atusepo",
+    "state": "DC",
+    "zip": "30153"
+  },
+  "contact": {
+    "phone": "(409) 203-5115",
+    "servicePhone": "800239188"
+  },
+  "birthday": "1981-06-19T22:15:52.201Z",
+  "ip": "102.155.46.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Laorucaj mec enu jaharo pejneor nelu vepnipa do raz nar pelrug hanup lodma ab zotzugit. Loifuijo go wu no upato ga girka ger ze ulo ikbu ezukabic wumihan ode suzrukvu su. Gevna ba ar sopkigop tahe buneppa katebu nu pofodad nim perokbok poktos ukjod so fekow vitawma. Rimuof gaf rodmijim luk pase rukaf jabjak ran tuvbi rebcupruj getuni eme. Ahi wivuh vuj fad nin ow lor we zo hacpahub zuilhag or jo hiz rarjiduz. Tabidum sab tiutha forho ambabaf ur so sofiwoje gubecfus idinotiz jole arave fargauw vet accul robipsik zirgos pufhe.",
+    "bio": "Gatufavi cid votlamov nihoaw cinhuc cu juv veosgu cianoza okuafubew jok izobo peetohel zu icoesnak. Koar ha pare fumdupco asecov suum ki zudubzo ceha gogfoki ber revenef pamor isnu gipmituf wafowi nocwa. Iviolsi paefe bedur tor vumlofa unpo lovaak lelnamob kip zizsepiz josmoc furjoz zip bupeje hapi."
+  },
+  "apiKey": "45397ac1fa35f4058ddb35bbbc58ace8ccfbd03d2ef76e81f52dcc685918e3d2",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
