@@ -1,0 +1,26 @@
+{
+  "name": "Sam Ford",
+  "age": 57,
+  "address": {
+    "street": "Fubum Place",
+    "city": "Lecfubzi",
+    "state": "NM",
+    "zip": "81707"
+  },
+  "contact": {
+    "phone": "(513) 588-1135",
+    "servicePhone": "800142257"
+  },
+  "birthday": "1979-04-15T16:58:39.947Z",
+  "ip": "195.159.207.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Duhlise cupat habugkih rumdaan vasot agunohi vul ne bopje panezas oggu raog ogpeg wom ic. Wusmoap waemo zikesceb sunhohowi nupaage huzmuava oku hitum caggac pergodud obna odojzu mogvejug do suuzdo na va rafilela. Vu sec ojfej adi wuv raola sosirfe isnuciso uz buhimlug kim kovucar huruzu titwe baep veamimar. Teip fiknih vaf zuvip ekha ivo dafac toldodur hubgupaz raj lakzusas vike latlalol ic ni fap. Cewmokiv buja odzo bed azcek jozial anazez zoze eszu ta sisofrer fuza vekova zemake jec ga. Lozuop ri fo sijopu cufefueta abvi tufupug duer wev atib ceko kicuce vebfe fa hujvi nem.",
+    "bio": "Wussi zeglugo inza asubemih kotbaw pisevo foj kubase ezouzohap zilos tepikfug fekaco dosa. Juznuke id vowelkav eriowuvoc epzuz la et tecco unezu wooc tawiepu kur ro. Fusgorfe ca jig omuwe zanuc ileaci aziwis utoduncej sidug bi kosra or ravca gecinafi kafkajheb he."
+  },
+  "apiKey": "ec9958e4dd9ab62c2a974d03a95ee7d0849236fe68a0a1d98f41dfcd0f3ae1e7",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
