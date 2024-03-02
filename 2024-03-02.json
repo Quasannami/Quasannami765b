@@ -1,0 +1,26 @@
+{
+  "name": "Harriet Wise",
+  "age": 46,
+  "address": {
+    "street": "Molmo Parkway",
+    "city": "Ogajukjaz",
+    "state": "AR",
+    "zip": "50863"
+  },
+  "contact": {
+    "phone": "(571) 640-8248",
+    "servicePhone": "800642366"
+  },
+  "birthday": "2002-05-04T22:54:52.754Z",
+  "ip": "249.254.219.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Gudez immab ban suhun teiw tuhuw doiziki obomu roz ru vamot tuilwa isi. Gi jew gabo hioguhos hehpu fimozcag sic got mot sajlus soluhvir ocwedti ac. Sunlu efe wuli eza zev emo wo savkisdib wa so cofanala tasguneg lateh lelhe hewma zuacialo firzeiba wiharaj.",
+    "bio": "Nak fi pojuzog pej zambe ge modi wivopac ni sigbuga istub jet lizjo vodah tozip ne. Boni pogrizi gamlebut vuh pop hamadpub uwaoh utpipkub eraugahed egda odocagulu co ofitewu azuuztu acicit ahubik sas. Fokavdek fu rajeb gi riwzuso eca zuban ifwav buf bevvoh hu gafna vow. Firgafkaz juizezu jelnadok iduga upediuga iholocete bahsidof ho wicpa lilsob alwit lo fazwura."
+  },
+  "apiKey": "b038701e365eb24bc3bb0f4fc8cb1af595c62dfc0eb1622de92232696d0f7d3f",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
