@@ -1,0 +1,26 @@
+{
+  "name": "Isabella Hoffman",
+  "age": 62,
+  "address": {
+    "street": "Kopta Extension",
+    "city": "Dubecmo",
+    "state": "LA",
+    "zip": "69406"
+  },
+  "contact": {
+    "phone": "(884) 453-6598",
+    "servicePhone": "800185631"
+  },
+  "birthday": "1973-04-24T12:53:21.954Z",
+  "ip": "123.54.173.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Oh gorew vaez lu demev oj urunircu ridow pitgoc aze lomur tulo ocig toungav poshe jisih. Vajwuhis uhi letsajad ni bobawcoj mab ozmekres raenofa bubsi rofoz hoz birobo pacviv wusamoigi wauguk sa vemo wahijov. Mepenpe va ezuko hes imutiv iba ukisitbu uluh asawer muj gokvo nolsacfi indi ku. Forhoon biteklur facemu bensonki cuva to jup zap onvulme rocasiav op fe zeza velovko bo uwsif. Uluujut guesuuc bitjuz biw ja adeesiono of enazo cizasigi ocipowov ficog reoho kaphimow govzu wefad wivdedub webum uwaha. Fiiw zezhad atebe recof perigca rogere zulko be feri ran ezosa usoopdew oj.",
+    "bio": "Facine opose cuziku hajkojsuf gor ovufobeb ornek eh giumgon mutorsib zapehvin ij ku haz ragdob tihu. Bim pu oluevna niw zohol roho garaferu bolites rawolze ziwha deojset reg. Anadi ujhaf wu coce tana tum jabvifo bivlip gujocop cokzah lok kajwisa ore bigmo devbel."
+  },
+  "apiKey": "2784b08c1c2c127975c5991504e483f630a50004959a21943031210ab468d546",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
