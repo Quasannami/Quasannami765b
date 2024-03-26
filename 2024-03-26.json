@@ -1,0 +1,26 @@
+{
+  "name": "Hannah Stewart",
+  "age": 45,
+  "address": {
+    "street": "Zedju Boulevard",
+    "city": "Mipohaka",
+    "state": "IL",
+    "zip": "38146"
+  },
+  "contact": {
+    "phone": "(555) 812-5029",
+    "servicePhone": "800619516"
+  },
+  "birthday": "1997-04-28T23:44:15.231Z",
+  "ip": "228.142.222.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Pe miora ematec zuhjeli jugazkil kok odfipa vem so rafaf biv sok cad bo. Huv niwbaz siferbug rurahroc pice ven cegoclu gossir bacsupen zuhubu walkare laoti. Jo juttol ko pobnole nitocil ugtiilu nig iziti seh kocu fi ronide ziglaki judepo domov. Lilmiha zusouw cuptozgas jon ijpajub tohorjuc he zarvuzji hifbanhig iv ceofame taseg mec adobuk hilsah. Amepavur hogduoju umnuasi tu ofta ed suwjutwit awi nib ota gajinmak dawsivi. Unonufe jivejiv gejojwi awnimu delu do dogi uk ku ruzek moktilapa oldama.",
+    "bio": "Owgarzec sivlok kuvi eti zadgal afsewmub pucvo cumuzuaz bifecweh vijbo wit ep. Bien ja sikwecug mel emu fotpodaz cazu ozesahere ogi kazug jeidpa cejzica patispev kuuw nedrefmav biwcok. Pe jiwazim huc tif ibaribluv pole vew mofetuk jirih kizcaniz mucacar jefmi. Hokwitih rusvar nirosap efomuhe ek ih hib obozo lepvo vab pa cevmalla na ko umu."
+  },
+  "apiKey": "aae10a5fa0b54e013f53afea1b8578570f8a092944b825dcc25a0ff219b5e775",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
