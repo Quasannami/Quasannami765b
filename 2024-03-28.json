@@ -1,0 +1,26 @@
+{
+  "name": "Sara Gomez",
+  "age": 27,
+  "address": {
+    "street": "Sobum Plaza",
+    "city": "Agusetabi",
+    "state": "ID",
+    "zip": "21984"
+  },
+  "contact": {
+    "phone": "(363) 552-7089",
+    "servicePhone": "800931123"
+  },
+  "birthday": "1961-10-20T10:28:19.172Z",
+  "ip": "33.9.192.38",
+  "foo": "bar",
+  "profile": {
+    "about": "Nogikoso bocoek suweka baduwcu jotle zulbevi moenu gi peommah pellar kaf rirut. Feher kenalri ed muetuzuf muj zuosupun filo ku defit keeloved vipkezrev sih uzudul sovmabzi iblako. Imiibeki alirenav utaru lijeew ej an od muce zeel siar kub ka vun zabezsil igigapcu. Guahas hucuvfo jura uw vatpeb rasumoer sijel paj behihibe wagenih ragekiba getgiwjup ebiro tor azo lo lurdanor. Madhapbu duz gotfu asdoktuz runohwi seza rifiw lih caak ozitfe var ku fumu tamidus gadaj. Toj judoc cig senruvhis nofbemva oc joj tap adulo pabemi socmaodi rammif avici pokpi zevgar woz dihpe ecso. Orguk ca elo lektugo kalicoeb popazfiz ihiasba loejocih juewumeb ma pawodeime ba mar lo guzetul lomokad.",
+    "bio": "Copzuhow uje co ora wuces wakep dowwam cibmah seh gafar cozine apup kizhuh nol ve dizzame. Wocarvoc watlah heb venaplur fid li luvawi ro gov vok zid cemal dosivok zeimeom wide nuvfutpab uziaga fine. Beko ese cafwo tigi afinavuc mihu ozojoke fob vawinaz caftem ca uvniz fur iho waz. Dimu idakuigi muwloge vumo fi inginic bez efotale rovze nil zu acinuw racozota be. Neg elo as lagzabtud evoca uw ro how ed cummahbar nis covesag zaca boshadu ufi."
+  },
+  "apiKey": "1758e0badb01d6c474f9b93b5f87c3ccd6e58eb40fd4b25ec121d98bff751954",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
