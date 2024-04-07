@@ -1,0 +1,26 @@
+{
+  "name": "Herbert Christensen",
+  "age": 42,
+  "address": {
+    "street": "Wezu Avenue",
+    "city": "Berotcu",
+    "state": "TN",
+    "zip": "33804"
+  },
+  "contact": {
+    "phone": "(932) 592-7168",
+    "servicePhone": "800519396"
+  },
+  "birthday": "1987-07-13T01:08:15.924Z",
+  "ip": "10.149.50.113",
+  "foo": "bar",
+  "profile": {
+    "about": "Dud vezal siozloc ot soeb wug ni howo ej selepeere sil woznukgo li bo. Uhuta rozmikaj fobug kit ruf zedour caczefih fam lefti omved ras ine nalu muvboz eho sapjiis sik ivcitit. Pumif wiuwe esfecu aceir jir fotab macnestef bemcokpo zazzorle sep eteconvop kip pefreiti. Zecolnut baz fuwos hedeh fertoca ruegodi rov mehco ikpiw fut nejheru kiz sigmo iwa guh vifeb fosmavzi taj.",
+    "bio": "Rerop cep urorigne hamdihi cafunwo la rodpiha gozjiso wimrepgir fep kape givpilap ce defi zag fodpun geegevuk. Tisufba bafdutbut epare eduni ligco fetvival wonun ge lirzegnuz fawok pimor ir ru. Tej viw opohumvot hikocop eg so veffi hipebo juupa kiz let agwo bo himocga gafu gurriwo."
+  },
+  "apiKey": "28016d1e5e31707af6acd01a7b2f656a67fff575a920b62204667a9cfd8dc20c",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
