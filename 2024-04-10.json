@@ -1,0 +1,26 @@
+{
+  "name": "Lydia Rowe",
+  "age": 18,
+  "address": {
+    "street": "Bagede Key",
+    "city": "Tarperet",
+    "state": "ND",
+    "zip": "87535"
+  },
+  "contact": {
+    "phone": "(500) 928-7166",
+    "servicePhone": "800874129"
+  },
+  "birthday": "1998-03-02T01:16:25.694Z",
+  "ip": "73.43.25.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Sija ovu teki omuobiz ku naduni jibmolu arram cusat ce ji sapilpiv el ra ge tovov ehkoami. Rug cidilfu homgi uhco kaupabu vehdo wuc fizlin ca buh hif lomfisat tab icjat coh fev vov. Hido wograwi ruh gi tuk nomocwi uko wihun rebohu zuron pe me wod god muogod.",
+    "bio": "Ziribipu geudi geteh wa baug jiliv ur ojjes ket omlumes rus jajaha ruledhus wedemoc zowtate ce ceaduinu. Gi vuj regijniv ilfoz wop wobala pija diif geb okdam dakgug niku kul. Vadsabdu ju oh ez bu wem maguruhe iw po gimi deteso sajupzel maf hicihzik. Fod kowri ijeerigit obduk osesa uko rulotpeg dezdod fisav pibiz pephenno si dafzu uv pal. Zu oczoc fi cohal wek vebgefi vokje riviswo inejup rolni asnodes lujib fol ti irhot. Remwutzec sevpat buvozewe catesfun kighekut errukcos apebo eji wa azizikci okehun hab agto fut. Ratafog jagij kesemor colale vam iguluawe ijla bonamki jacibhi ele pourbu za."
+  },
+  "apiKey": "f9981c35690adcb6bbea080709081ee8b580bac78ee1b762fd9843a0ad708992",
+  "currency": {
+    "code": "FKP",
+    "name": "Falkland Islands (Malvinas) Pound"
+  }
+}
